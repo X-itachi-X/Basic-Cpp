@@ -1,5 +1,5 @@
 # Basic-Cpp
-![image_processing20210624-18500-1cttor7](https://github.com/X-itachi-X/Basic-Cpp/assets/104882734/17f2009f-45b8-429d-b35e-05d5c82a5c62)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3cDBqOGtvMmtiZnMwOHp2b2E5M3FkdmNpMXVtNzMwZXZiYXdwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEG5c4qfFYCjXVA30L/giphy.gif" width="100%">
 
 C++ is a powerful and widely used programming language. It encompasses several fundamental concepts that form the building blocks of C++ programming. Here are some of the basic concepts in C++:
 
